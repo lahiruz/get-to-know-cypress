@@ -22,6 +22,6 @@
   "homepage": "https://github.com/lahiruz/get-to-know-cypress#readme",
   "devDependencies": {
     "@shelex/cypress-allure-plugin": "^2.40.2",
-    "cypress": "12.14.0"
+    "cypress": "^13.8.1"
   }
 }
